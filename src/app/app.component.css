@@ -1,0 +1,18 @@
+mat-form-field {
+  width: 100%;
+}
+
+table {
+  width: 100%;
+}
+.mat-cell,
+.mat-header-cell {
+  word-wrap: break-word;
+  display: table-cell;
+  padding: 0px 10px !important;
+  line-break: unset;
+  width: auto;
+  overflow: hidden;
+  vertical-align: middle;
+  font-size: 13px;
+}
